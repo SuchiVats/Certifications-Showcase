@@ -41,7 +41,7 @@ Explore my complete portfolio of projects and achievements:
 ## 🤝 Connect with Me!
 
 I’m always eager to collaborate and share insights. Reach out for discussions or potential opportunities:  
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/suchi-vats-a2b100279/)
+- **LinkedIn:** [Link to LinkedIn Profile](https://www.linkedin.com/in/suchi-vats-a2b100279/)
 
 ---
 

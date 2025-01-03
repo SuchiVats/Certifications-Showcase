@@ -35,6 +35,7 @@ For a detailed view of all my certifications, including downloadable copies, vis
 Explore my complete portfolio of projects and achievements:  
 - **Tableau Dashboards:** [Link to Tableau Public Profile](https://public.tableau.com/app/profile/suchi.sharma/vizzes)  
 - **GitHub Repositories:** [Link to GitHub Profile](https://github.com/SuchiVats)
+- **DataScience Portfolio:** [Link to Data Science Portfolio](https://www.datascienceportfol.io/SuchiSharma) 
 
 ---
 
